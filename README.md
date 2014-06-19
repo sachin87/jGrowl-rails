@@ -32,6 +32,10 @@ Add to your `app/assets/stylesheets/application.css`
 
     jquery >= 1.4
 
+## Contributing to j_growl_rails
+
+Fork, fix, then send me a pull request.
+
 ## License
 
 use MIT license.
