@@ -1,6 +1,7 @@
 # JGrowl for rails asset pipeline
 
 [![Gem Version](https://badge.fury.io/rb/j_growl_rails.svg)](http://badge.fury.io/rb/j_growl_rails)
+[![Code Climate](https://codeclimate.com/github/sachin87/jGrowl-rails.png)](https://codeclimate.com/github/sachin87/jGrowl-rails)
 
 [jQuery jGrowl](https://github.com/stanlemon/jGrowl) is a jQuery plugin that raises unobtrusive messages within the browser,
 similar to the way that OS X's Growl Framework works. The idea is simple, deliver notifications to the end user in a
