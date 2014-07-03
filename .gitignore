@@ -7,4 +7,4 @@ test/dummy/log/*.log
 test/dummy/tmp/
 test/dummy/.sass-cache
 /j_growl_rails-0.0.1.gem
-.idea/
+.idea
