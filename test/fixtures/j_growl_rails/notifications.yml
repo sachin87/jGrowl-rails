@@ -1,0 +1,59 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  header: MyString
+  title: MyString
+  message: MyText
+  sticky: false
+  life: 1
+  pool: 1
+  group: MyString
+  position: MyString
+  glue: MyString
+  theme: MyString
+  theme_state: MyString
+  corners: MyString
+  check: MyString
+  close_duration: MyString
+  open_duration: MyString
+  easing: MyString
+  closer: MyString
+  close_template: MyString
+  closer_template: MyString
+  log: MyString
+  before_open: MyText
+  after_open: MyText
+  open: MyString
+  before_close: MyString
+  close: MyString
+  animate_open: MyString
+  animate_close: MyString
+
+two:
+  header: MyString
+  title: MyString
+  message: MyText
+  sticky: false
+  life: 1
+  pool: 1
+  group: MyString
+  position: MyString
+  glue: MyString
+  theme: MyString
+  theme_state: MyString
+  corners: MyString
+  check: MyString
+  close_duration: MyString
+  open_duration: MyString
+  easing: MyString
+  closer: MyString
+  close_template: MyString
+  closer_template: MyString
+  log: MyString
+  before_open: MyText
+  after_open: MyText
+  open: MyString
+  before_close: MyString
+  close: MyString
+  animate_open: MyString
+  animate_close: MyString
