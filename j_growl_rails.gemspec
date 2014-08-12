@@ -7,8 +7,8 @@ require 'j_growl_rails/version'
 Gem::Specification.new do |s|
   s.name           = 'j_growl_rails'
   s.version        = JGrowlRails::VERSION
-  s.authors        = ['Sachin Singh']
-  s.email          = ['singhsachin87@yahoo.com', 'sachin.y87@gmail.com']
+  s.authors        = 'Sachin Singh'
+  s.email          = %w(singhsachin87@yahoo.com sachin.y87@gmail.com)
   s.description  = %q{jGrowl Rails is a gem that that raises unobtrusive messages within the browser using jGrowl a jQuery plugin, similar to the way that OS X's Growl Framework works. The idea is simple, deliver notifications to the end user in a noticeable way that doesn't obstruct the work flow and yet keeps the user informed.}
   s.summary      = %q{jGrowl Rails is a gem that that raises unobtrusive messages within the browser using jGrowl a jQuery plugin}
   s.homepage     = 'https://github.com/sachin87/jGrowl-rails'
