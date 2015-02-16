@@ -35,6 +35,7 @@ Add to your `app/assets/stylesheets/application.css`
 ### Dependencies
 
     jquery >= 1.4
+    rails >= 4.1.1
 
 ## Contributing to j_growl_rails
 
